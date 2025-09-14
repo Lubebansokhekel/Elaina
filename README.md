@@ -1,20 +1,29 @@
-╭─❍──────────────❍─╮
- 𝗧𝗘𝗥𝗜𝗠𝗔 𝗞𝗔𝗦𝗜𝗛 𝗠𝗘𝗠𝗕𝗨𝗔𝗧 𝗦𝗖𝗥𝗜𝗣𝗧 𝗜𝗡𝗜
-╰─❍──────────────❍─╯
-[SCRIPT INI FREE NO ENC YA!!!]
-## JANGAN DI JUAL KONTOLLLL LU NGEMIS PEPEEEEEKKKKKKKKKKKKKKKK KALO INIII SC FREE ASU LU GW BANTAI LU TAIK
-╭── ⋆⋅☆⋅⋆ ──╮
-│  ✦ 𝗩𝗶𝘁𝗮
-│  ✦ 𝗗𝗲𝘄𝗶
-│  ✦ 𝗟𝗮𝘆𝗹𝗮𝗮 
-│  ✦ 𝗔𝗰𝗵𝗮 
-│  ✦ 𝗡𝗼𝘃𝗶 
-╰── ⋆⋅☆⋅⋆ ──╯
+# 🌸 Elaina Bot
 
-╭──── ⭑ 𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 ⭑ ────╮
-│ 🌐 *Instagram:* @laylaa_imup
-│ ▶️ *YouTube:* @laylaa-yes
-│ 💬 *Telegram:* @laylaa_imup ( ON ) 
-│ 📘 *Facebook:* fb.com/ ( ga punya ) 
-│ 💬 *WhatsApp:* ( KENON ) 
-╰────────────────────────────╯
+Elaina Bot adalah bot WhatsApp multifungsi yang berjalan di atas **Node.js**.  
+Bot ini dilengkapi berbagai fitur menarik untuk memudahkan aktivitas chat dan hiburan.  
+
+## 🚀 Instalasi
+
+Ikuti langkah-langkah berikut untuk menjalankan Elaina Bot:
+
+```bash
+# Update & install dependensi
+apt install git -y
+apt install nodejs -y
+apt install ffmpeg -y
+apt install yarn -y
+
+# Clone repository
+git clone https://github.com/Lubebansokhekel/Elaina
+
+# Masuk ke direktori
+cd Elaina
+
+# Install semua package
+yarn
+
+# Jalankan bot
+npm start
+
+
